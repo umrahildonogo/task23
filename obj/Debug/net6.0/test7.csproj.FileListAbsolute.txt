@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\test7.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\test7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\test7.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\test7.AssemblyInfo.cs
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\test7.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\test6\test7\bin\Debug\net6.0\test7.exe
+C:\Users\PC\Desktop\test6\test7\bin\Debug\net6.0\test7.deps.json
+C:\Users\PC\Desktop\test6\test7\bin\Debug\net6.0\test7.runtimeconfig.json
+C:\Users\PC\Desktop\test6\test7\bin\Debug\net6.0\test7.dll
+C:\Users\PC\Desktop\test6\test7\bin\Debug\net6.0\test7.pdb
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\test7.dll
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\refint\test7.dll
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\test7.pdb
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\test7.genruntimeconfig.cache
+C:\Users\PC\Desktop\test6\test7\obj\Debug\net6.0\ref\test7.dll
